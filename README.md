@@ -1,5 +1,4 @@
 # WebKit
-----
 
 该文档是 iOS Developer Library 中的 WebKit 框架的中文版。
 
